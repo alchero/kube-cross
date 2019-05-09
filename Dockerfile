@@ -1,5 +1,5 @@
 # hube-cross 
-FROM k8s.gcr.io/hube-cross:v1.12.4
+FROM k8s.gcr.io/kube-cross:v1.12.4
 
 MAINTAINER alchero
 
